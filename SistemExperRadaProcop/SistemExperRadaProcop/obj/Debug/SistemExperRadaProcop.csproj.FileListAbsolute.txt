@@ -1,0 +1,13 @@
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\bin\Debug\SistemExperRadaProcop.exe.config
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\bin\Debug\SistemExperRadaProcop.exe
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\bin\Debug\SistemExperRadaProcop.pdb
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\obj\Debug\SistemExperRadaProcop.csprojAssemblyReference.cache
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\obj\Debug\SistemExperRadaProcop.Form1.resources
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\obj\Debug\SistemExperRadaProcop.Properties.Resources.resources
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\obj\Debug\SistemExperRadaProcop.csproj.GenerateResource.cache
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\obj\Debug\SistemExperRadaProcop.csproj.CoreCompileInputs.cache
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\obj\Debug\SistemExperRadaProcop.exe
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\obj\Debug\SistemExperRadaProcop.pdb
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\obj\Debug\SistemExperRadaProcop.Form2.resources
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\bin\Debug\Rules.mdf
+C:\Users\Rada\source\repos\SistemExperRadaProcop\SistemExperRadaProcop\bin\Debug\Rules_log.ldf
